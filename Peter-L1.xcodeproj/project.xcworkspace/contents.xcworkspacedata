@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Peter_L1.xcodeproj">
+      location = "self:/Users/ninja/Documents/xcode/PeterPan/Peter_L1/Peter-L1.xcodeproj">
    </FileRef>
 </Workspace>
